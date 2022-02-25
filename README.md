@@ -30,5 +30,9 @@ Sistema operativo: Windows 10 Home Idioma único de 64 bits (10.0, compilación 
 
 Se han utilizado los programas Git bush para subir los archivos a github y python para el desarrollo del examen en general. Y el cuaderno fue editado con anaconda en el programa JupyterLab.
 
+## Información de la data utiliza
 
+miningscience fue la función requerida para el desarrollo de esta actividad, sin la cual no hubiera sido posible el desarrollo del trabajo.
+
+Ecuador genomics se ha obtenido del buscador PUBMED de los cuales ha sido necesarios los DP, AU y AD. 
 
